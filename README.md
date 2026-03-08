@@ -1,10 +1,6 @@
 # ⚙️ Automated Crypto ETL Pipeline (Data Engineering Project)
 
-![ETL Status]
-<img width="1088" height="214" alt="Screenshot 2026-03-08 at 19 53 31" src="https://github.com/user-attachments/assets/b0e1cba5-b6b7-455d-b293-72d7149a293e" />
-
-![MySQL]
-<img width="977" height="697" alt="Screenshot 2026-03-08 at 19 36 29" src="https://github.com/user-attachments/assets/1cd688e0-cb22-45a5-9686-5f8be515c0e2" />
+![ETL Status](https://img.shields.io/badge/Status-Completed-success) ![Python](https://img.shields.io/badge/Python-3.x-blue) ![MySQL](https://img.shields.io/badge/MySQL-Local-orange)
 
 ## 📝 Project Overview
 Proyek ini adalah sebuah **End-to-End ETL (Extract, Transform, Load) Pipeline** otomatis yang dirancang untuk menarik data pasar *Cryptocurrency* secara *real-time*, membersihkannya, dan menyimpannya ke dalam Relational Database (MySQL) untuk keperluan analisis historis. 
@@ -42,9 +38,9 @@ Proyek ini dibuat untuk mensimulasikan tugas inti harian seorang **Data Engineer
 
 ## 📸 Preview Hasil (Terminal & Database)
 
-*(Hapus baris ini dan masukkan screenshot terminal lu yang lagi jalan otomatis di sini)*
+<img width="765" height="217" alt="Screenshot 2026-03-08 at 19 36 00" src="https://github.com/user-attachments/assets/303ec769-fd43-400d-a902-f6ec32ffc30b" />
 
-*(Hapus baris ini dan masukkan screenshot tabel DBeaver lu yang datanya udah masuk di sini)*
+<img width="977" height="697" alt="Screenshot 2026-03-08 at 19 36 29" src="https://github.com/user-attachments/assets/daabaff1-effb-445a-9f12-25b081d383d5" />
 
 ---
-**👨‍💻 Author:** Wisma Jaya Laksana | Calon Data Engineer
+** Author:** Wisma Jaya Laksana
