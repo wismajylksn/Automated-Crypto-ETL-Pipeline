@@ -40,7 +40,8 @@ Proyek ini dibuat untuk mensimulasikan tugas inti harian seorang **Data Engineer
 
 <img width="765" height="217" alt="Screenshot 2026-03-08 at 19 36 00" src="https://github.com/user-attachments/assets/303ec769-fd43-400d-a902-f6ec32ffc30b" />
 
+
 <img width="977" height="697" alt="Screenshot 2026-03-08 at 19 36 29" src="https://github.com/user-attachments/assets/daabaff1-effb-445a-9f12-25b081d383d5" />
 
 ---
-** Author:** Wisma Jaya Laksana
+**Author:** Wisma Jaya Laksana
