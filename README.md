@@ -1,7 +1,7 @@
 # ⚙️ Automated Crypto ETL Pipeline (Data Engineering Project)
 
 ![ETL Status]
-<img width="765" height="217" alt="Screenshot 2026-03-08 at 19 36 00" src="https://github.com/user-attachments/assets/3ff402be-ece5-4697-a0a9-0b4b29e61c45" />
+<img width="1088" height="214" alt="Screenshot 2026-03-08 at 19 53 31" src="https://github.com/user-attachments/assets/b0e1cba5-b6b7-455d-b293-72d7149a293e" />
 
 ![MySQL]
 <img width="977" height="697" alt="Screenshot 2026-03-08 at 19 36 29" src="https://github.com/user-attachments/assets/1cd688e0-cb22-45a5-9686-5f8be515c0e2" />
