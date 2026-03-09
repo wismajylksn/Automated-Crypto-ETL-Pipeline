@@ -38,7 +38,7 @@ Proyek ini dibuat untuk mensimulasikan tugas inti harian seorang **Data Engineer
 
 ## 📸 Preview Hasil (Terminal & Database)
 
-<img width="765" height="217" alt="Screenshot 2026-03-08 at 19 36 00" src="https://github.com/user-attachments/assets/303ec769-fd43-400d-a902-f6ec32ffc30b" />
+<img width="1079" height="405" alt="Screenshot 2026-03-09 at 17 28 32" src="https://github.com/user-attachments/assets/7a6f87ee-84a8-40c1-89af-2fdf285b8b9b" />
 
 
 <img width="977" height="697" alt="Screenshot 2026-03-08 at 19 36 29" src="https://github.com/user-attachments/assets/daabaff1-effb-445a-9f12-25b081d383d5" />
